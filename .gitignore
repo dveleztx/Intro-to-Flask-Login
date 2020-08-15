@@ -4,4 +4,4 @@ desktopenv
 __pycache__
 .gitignore~
 ..gitignore.un~
-login.sqlite
+db.sqlite
