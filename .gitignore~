@@ -2,3 +2,5 @@
 .DS_Store
 desktopenv
 __pycache__
+.gitignore~
+..gitignore.un~
